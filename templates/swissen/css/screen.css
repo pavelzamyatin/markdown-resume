@@ -79,17 +79,17 @@
         text-transform: uppercase;
         letter-spacing: 3px;
     }
-    
+
     h3 {
         float: left;
         width: 20%;
     }
-    
+
     h3+p {
         float: left;
         width: 80%;
     }
-    
+
     ul li {
         width: 33.33%;
         float: left;
@@ -121,7 +121,7 @@
     ol li:nth-child(1), ol li:nth-child(2), ol li:nth-child(3) {
         border-top: none;
     }
-    
+
     dl {
         /*margin: .5em 0 0;*/
         dt {
@@ -136,7 +136,7 @@
             font-size: 130%;
             font-style: normal;
         }
-        
+
     }
 
 
